@@ -1,18 +1,5 @@
-# Edureka_devops_certification_projects
-Edureka Devops Certification project 
+# DevOps-Certification-Project
 
-Problem Statement
-
-
-Apple Bite Co. is using Cloud for one of their products. The project uses modular components, multiple frameworks and want the components to be developed by different teams or by 3rd party vendors. 
-
-
-The company’s goal is to deliver the product updates frequently to production with High quality & Reliability. They also want to accelerate software delivery speed, quality and reduce feedback time between developers and testers. 
-
-
-As development progressed, they are facing multiple problems, because of various technologies involved in the project. Following are the problems:
-
-
-1] Building Complex builds is difficult
-2] Manual efforts to test various components/modules of the project
-3] Incremental builds are difficult to manage, test and deploy
+This repository includes the Problem Statement, Code Files , Project Implementation report and all other necessary materials required for the creation of complete CI/CD pipeline built as a project for being certified as DevOps Engineer by Edureka.
+It was a great learning experience where I learnt at an optimum level about the Devops Tools like Git,Selenium,Puppet,Jenkins,Ansible,Maven,Docker, Kubernetes and Nagios.
+Hope this repository helps other in building CI/CD pipeline using the above mentioned tools...
